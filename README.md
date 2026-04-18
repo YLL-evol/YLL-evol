@@ -22,19 +22,6 @@ with strong experience in **population genetics**, **sexual selection**, and
 
 ---
 
-## 🤔Research Interests
-
-- Evolutionary Biology  
-- Population Genetics  
-- Sexual Selection  
-- Evolutionary Anthropology  
-- Integrative Neuroscience  
-- Phylogenetics  
-- Positive Selection Analysis  
-- Behavioral Ecology  
-
----
-
 ## 🛠Technical Skills
 
 ### Programming
