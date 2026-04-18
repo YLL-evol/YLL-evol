@@ -1,18 +1,3 @@
-<!--
-**YLL-evol/YLL-evol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- 
 <h1 align="center">YLL</h1>
 <h3 align="center">Evolutionary Biology · Population Genetics · Research Engineer / PhD Candidate</h3>
@@ -25,7 +10,7 @@ Evolution · Sexual Selection · Integrative Neuroscience · Computational Biolo
 -->
 ## 👋About Me
 
-Research-oriented profile in evolutionary biology and integrative neuroscience,  
+Research interest in evolutionary biology and integrative neuroscience,  
 with strong experience in **population genetics**, **sexual selection**, and  
 **computational analysis of biological data**.
 
