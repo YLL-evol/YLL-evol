@@ -27,16 +27,6 @@ with strong experience in **population genetics**, **sexual selection**, and
 ### Programming
 Python · R · JavaScript · SQL · Bash  
 
-### Data & Scientific Computing
-NumPy · Pandas · Scikit-learn · GLM modeling  
-Phylogenetics & evolutionary analysis pipelines  
-
-### Bioinformatics / Evolution Tools
-Braker — genome annotation  
-MAFFT — sequence alignment  
-IQTree — phylogenetics  
-PALM — positive selection modeling  
-
 ### Experimental Skills
 RNAi knock-down  
 DNA extraction  
