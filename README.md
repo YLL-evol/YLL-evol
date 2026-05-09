@@ -22,6 +22,23 @@ with strong experience in **population genetics**, **sexual selection**, and
 
 ---
 
+## :dizzy: Projects
+### Devo
+[Drosophila reproductive gland single cell analysis](https://github.com/YLL-evol/Droso_sex_glands_FM_single_C)  
+
+### Evo
+[Honest signal collapse dynamics](https://github.com/YLL-evol/Honest-Signaling-Collapse-Dynamics)  
+[Drosophila physio evol under mono/polygamy & environmental pressure](https://github.com/YLL-evol/Physio-evol-mono-poly-sexual-selection)  
+[Genetic Drift Under Temporally Correlated Environmental Pressure](https://github.com/YLL-evol/Time_x_Envi_Genetic_Drift)  
+[Population dynamics on culture evolution](https://github.com/YLL-evol/Pop_size_culture_evol)  
+
+### Neuro
+[Machine learning voice encoded human brain fMRI](https://github.com/YLL-evol/Voice-Encode-fMRI-Machine-Learning)
+
+
+
+---
+
 ## 🛠Technical Skills
 
 ### Programming
@@ -58,10 +75,9 @@ Bachelor Life Sciences — Biology of Organisms & Ecology  -  Paris-Saclay Unive
 ---
 
 ## 💬Languages
-
 Chinese — Mandarin / Cantonese / Teochew  
 English — TOEIC 925  
-French — lived in France since 2017
+French — lived in France since 2017  
 Japanese — JLPT N1  
 
 ---
