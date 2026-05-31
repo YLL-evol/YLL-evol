@@ -27,11 +27,13 @@ with strong experience in **population genetics**, **sexual selection**, and
 [Drosophila reproductive gland single cell analysis](https://github.com/YLL-evol/Droso_sex_glands_FM_single_C)  
 
 ### Evo
-[Heliconius Wing Phenotypic Tree](https://github.com/YLL-evol/Heliconius-Wing-Phenotypic-Tree)  
-[Honest signal collapse dynamics](https://github.com/YLL-evol/Honest-Signaling-Collapse-Dynamics)  
+[Genotype–Phenotype–Mate Choice Bistability](https://github.com/YLL-evol/genotype-to-matechoice-bistability)  
+[Honest signal collapse dynamics](https://github.com/YLL-evol/Honest-Signaling-Collapse-Dynamics)    
 [Drosophila physio evol under mono/polygamy & environmental pressure](https://github.com/YLL-evol/Physio-evol-mono-poly-sexual-selection)  
-[Genetic Drift Under Temporally Correlated Environmental Pressure](https://github.com/YLL-evol/Time_x_Envi_Genetic_Drift)  
+[Genetic Drift Under Temporally Correlated Environmental Pressure](https://github.com/YLL-evol/Time_x_Envi_Genetic_Drift)     
 [Population dynamics on culture evolution](https://github.com/YLL-evol/Pop_size_culture_evol)  
+
+[Heliconius Wing Phenotypic Tree](https://github.com/YLL-evol/Heliconius-Wing-Phenotypic-Tree)    
 
 ### Neuro
 [Machine learning voice encoded human brain fMRI](https://github.com/YLL-evol/Voice-Encode-fMRI-Machine-Learning)
