@@ -27,6 +27,7 @@ with strong experience in **population genetics**, **sexual selection**, and
 [Drosophila reproductive gland single cell analysis](https://github.com/YLL-evol/Droso_sex_glands_FM_single_C)  
 
 ### Evo
+[State-Space Ecological Evolutionary Feedback](https://github.com/YLL-evol/State_space_eco_evol_feedback)
 [Genotype–Phenotype–Mate Choice Bistability](https://github.com/YLL-evol/genotype-to-matechoice-bistability)  
 [Honest signal collapse dynamics](https://github.com/YLL-evol/Honest-Signaling-Collapse-Dynamics)    
 [Drosophila physio evol under mono/polygamy & environmental pressure](https://github.com/YLL-evol/Physio-evol-mono-poly-sexual-selection)  
