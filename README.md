@@ -12,9 +12,9 @@ Evolution · Sexual Selection · Integrative Neuroscience · Computational Biolo
 
 **Evolutionary Biologist | Sexual Selection, Phenotypic Evolution & Computational Biology**
 
-I investigate how biological variation emerges, is expressed as phenotype, and influences evolutionary processes across scales—from genes and development to morphology, sensory signals, behaviour and reproductive interactions.
+I investigate how biological processes interact across levels of organisation—from genes and phenotypes to individuals, populations and evolutionary dynamics.
 
-My research combines evolutionary biology, behavioural ecology, neuroscience and quantitative approaches. I am particularly interested in sexual selection, genotype–phenotype relationships, signal evolution, phenotypic variation and the feedbacks linking traits, perception and selection.
+My research focuses on how genotype, phenotype, behaviour and natural and sexual selection influence one another, using evolutionary modelling, quantitative biology and experimental approaches.
 
 🔭 Currently looking for:
 
